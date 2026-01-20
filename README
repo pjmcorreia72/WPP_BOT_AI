@@ -1,6 +1,6 @@
 # API do Groq
 Groq API Keys
-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
+MY KEY
 
 executar o Docker
 
@@ -36,4 +36,5 @@ python /app/rag/rag.py
 #nota
 #optamos por uniformizar o nome do documento PDF(my_document.pdf) 
 #assim se alterarmos para outro pdf e usarmos esse mesmo nome 
+
 #não necessitamos de alterar o codigo.
